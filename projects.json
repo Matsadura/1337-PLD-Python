@@ -1,0 +1,14 @@
+{
+    "Hello, World": {
+        "Tasks": {
+            "Hello, print": "subjects/hello-world/1-task.md",
+            "Print integer": "subjects/hello-world/2-task.md",
+            "Print float": "subjects/hello-world/3-task.md"
+        },
+        "Checker": {
+            "Checker 1": "checker/hello-world/1-task.bash",
+            "Checker 2": "checker/hello-world/2-task.bash",
+            "Checker 3": "checker/hello-world/3-task.bash"
+        }
+    }
+}
